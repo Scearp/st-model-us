@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\cefpe\Desktop\Coding\SCALA\FPTP\src\main\scala\project.scala:145:47: not enough arguments for method constituencyWinner: (constituencyVotes: Map[String,Map[String,Double]], constituency: String)String.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter constituency.[0m
+[0m[[0m[31merror[0m] [0m[0m          constituencyVotes(constituencyWinner(constituencyVotes - constituencyWinner(constituencyVotes, constituency, constituency))(constituency)) /[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

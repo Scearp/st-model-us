@@ -1,0 +1,13 @@
+run
+def ratings(margins):
+    ratings = {}
+    for con in margins:
+        ratings[con] = fptp.rating(margins[con])
+run
+val csvFil
+run
+last Compile
+last Compile;
+run
+bgRun
+run

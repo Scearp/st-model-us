@@ -1,0 +1,31 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\fptp_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp\compute[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp\compute[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp\compute\package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp\compute\package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp\compute\package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp\compute\package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp\load[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp\load[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp\load\package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp\load\package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp\load\package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp\load\package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp\project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp\project[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp\project\package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp\project\package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fptp\project\package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\fptp\project\package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	uspres_2016.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes\uspres_2016.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

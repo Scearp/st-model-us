@@ -1,0 +1,1 @@
+scalac -bootclasspath C:\Users\cefpe\.sbt\boot\scala-2.12.10\lib\scala-library.jar -classpath C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\target\scala-2.12\classes C:\Users\cefpe\Desktop\Coding\SCALA\FPTP\src\main\scala\main.scala
